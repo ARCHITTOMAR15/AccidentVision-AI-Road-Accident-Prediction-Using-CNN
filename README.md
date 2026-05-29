@@ -85,14 +85,3 @@ Features:
 ### Archit Tomar
 
 AI/ML Enthusiast | Data Science | Deep Learning | Computer Vision
-
-GitHub:
-https://github.com/ARCHITTOMAR15
-
-
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a Star ⭐ on GitHub.
-
-Feedback, suggestions, and contributions are always welcome.
